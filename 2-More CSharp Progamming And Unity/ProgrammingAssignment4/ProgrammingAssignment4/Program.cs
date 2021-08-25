@@ -31,7 +31,37 @@ namespace ProgrammingAssignment4
 				// course add more space between the
 				// comments as needed
 
-				Console.Write("a");
+				int[] howMany  = new int[26];
+				char current;
+				char printableChar;
+				int printableInt;
+				int index;
+				for(int i = 0; i < 26; i++)
+				{
+					howMany[i] = 0;
+	            }
+
+				for (int i = 0; i < input.Length; i++)
+				{
+					current = char.ToUpper(input[i]);
+					index = ConvertCharToIndex(current);
+					if (index != -1)
+					{
+						howMany[index] = howMany[index] + 1;
+					}
+					
+				}
+
+				for(int i = 0; i < 26; i++)
+				{
+					if (howMany[i] != 0)
+					{
+						printableChar = ConvertIndexToChar(i);
+						printableInt =  howMany[i];
+						Console.WriteLine(printableChar + Convert.ToString(printableInt)  + " ");
+					}
+				}
+			
 
 				// Don't add or modify any code below
 				// this comment
@@ -60,6 +90,7 @@ namespace ProgrammingAssignment4
 				case 'G': return 6;
 				case 'H': return 7;
 				case 'I': return 8;
+				case 'İ': return 8;
 				case 'J': return 9;
 				case 'K': return 10;
 				case 'L': return 11;

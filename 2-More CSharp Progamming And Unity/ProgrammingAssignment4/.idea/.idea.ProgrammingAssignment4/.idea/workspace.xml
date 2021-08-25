@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6142594-966d-4d3f-8a40-1601d4c13016" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProgrammingAssignment4/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProgrammingAssignment4/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProgrammingAssignment4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProgrammingAssignment4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingAssignment4/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingAssignment4/Program.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ProgrammingAssignment4/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xDj54xQX9QXr6llaukGNluzruh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
   <component name="RunManager">
     <configuration name="ProgrammingAssignment4" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -19,5 +69,188 @@
         <option name="Build" />
       </method>
     </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6142594-966d-4d3f-8a40-1601d4c13016" name="Default Changelist" comment="" />
+      <created>1629896370123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629896370123</updated>
+      <workItem from="1629896379513" duration="1339000" />
+      <workItem from="1629898298528" duration="571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1431" height="269" key="GridCell.Tab.0.bottom" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1629898876163" />
+    <state width="1431" height="269" key="GridCell.Tab.0.center" timestamp="1629898876163">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1629898876163" />
+    <state width="1431" height="269" key="GridCell.Tab.0.left" timestamp="1629898876163">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1629898876163" />
+    <state width="1431" height="269" key="GridCell.Tab.0.right" timestamp="1629898876163">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1629898876163" />
+    <state width="1431" height="269" key="GridCell.Tab.1.bottom" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.1.center" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.1.left" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.1.right" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.2.bottom" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.2.bottom/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.2.center" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.2.center/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.2.left" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.2.left/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.2.right" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.2.right/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.3.bottom" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.3.bottom/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.3.center" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.3.center/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.3.left" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.3.left/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.3.right" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.3.right/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.4.bottom" timestamp="1629898876165">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.4.bottom/0.0.1474.864@0.0.1474.864" timestamp="1629898876165" />
+    <state width="1431" height="269" key="GridCell.Tab.4.center" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.4.center/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.4.left" timestamp="1629898876164">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.4.left/0.0.1474.864@0.0.1474.864" timestamp="1629898876164" />
+    <state width="1431" height="269" key="GridCell.Tab.4.right" timestamp="1629898876165">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="269" key="GridCell.Tab.4.right/0.0.1474.864@0.0.1474.864" timestamp="1629898876165" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ProgrammingAssignment4/Program.cs</url>
+          <line>43</line>
+          <properties documentPath="C:\Users\Omer\Desktop\CSharp Programming for Unity Game Development Specialization\2-More CSharp Progamming And Unity\ProgrammingAssignment4\ProgrammingAssignment4\Program.cs" initialLine="43">
+            <startOffsets>
+              <option value="1128" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1166" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ProgrammingAssignment4/Program.cs</url>
+          <line>45</line>
+          <properties documentPath="C:\Users\Omer\Desktop\CSharp Programming for Unity Game Development Specialization\2-More CSharp Progamming And Unity\ProgrammingAssignment4\ProgrammingAssignment4\Program.cs" initialLine="45">
+            <startOffsets>
+              <option value="1178" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1211" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ProgrammingAssignment4/Program.cs</url>
+          <line>46</line>
+          <properties documentPath="C:\Users\Omer\Desktop\CSharp Programming for Unity Game Development Specialization\2-More CSharp Progamming And Unity\ProgrammingAssignment4\ProgrammingAssignment4\Program.cs" initialLine="46">
+            <startOffsets>
+              <option value="1217" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1253" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ProgrammingAssignment4/Program.cs</url>
+          <line>51</line>
+          <properties documentPath="C:\Users\Omer\Desktop\CSharp Programming for Unity Game Development Specialization\2-More CSharp Progamming And Unity\ProgrammingAssignment4\ProgrammingAssignment4\Program.cs" initialLine="47">
+            <startOffsets>
+              <option value="1338" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1338" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ProgrammingAssignment4/Program.cs</url>
+          <line>52</line>
+          <properties documentPath="C:\Users\Omer\Desktop\CSharp Programming for Unity Game Development Specialization\2-More CSharp Progamming And Unity\ProgrammingAssignment4\ProgrammingAssignment4\Program.cs" initialLine="48">
+            <startOffsets>
+              <option value="1343" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1344" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
